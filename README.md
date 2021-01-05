@@ -4,7 +4,7 @@
 - [x] Day 1 - Beginner - Working with Variables in Python to Manage Data
 - [x] Day 2 - Beginner - Understanding Data Types and How to Manipulate Strings
 - [x] Day 3 - Beginner - Control Flow and Logical Operators
-- [ ] Day 4 - Beginner - Randomisation and Python Lists
+- [x] Day 4 - Beginner - Randomisation and Python Lists
 - [ ] Day 5 - Beginner - Python Loops
 - [ ] Day 6 - Beginner - Python Functions & Karel
 - [ ] Day 7 - Beginner - Hangman
