@@ -6,8 +6,9 @@
 - [x] Day 3 - Beginner - Control Flow and Logical Operators
 - [x] Day 4 - Beginner - Randomisation and Python Lists
 - [x] Day 5 - Beginner - Python Loops
-- [ ] Day 6 - Beginner - Python Functions & Karel
+- [x] Day 6 - Beginner - Python Functions & Karel
 - [ ] Day 7 - Beginner - Hangman
+- [ ] Bonus Day - Beginner - Practise for the week
 - [ ] Day 8 - Beginner - Function Parameters & Caesar Cipher
 - [ ] Day 9 - Beginner - Dictionaries, Nesting and the Secret Auction
 - [ ] Day 10 - Beginner - Functions with Outputs
