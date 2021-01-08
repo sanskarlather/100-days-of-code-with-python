@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Day 5"
+    "\\Day 5",
+    "\\Day 6",
+    "\\Day 7"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\Day 7\\day7(Hangman).py",
   "PreviewInSolutionExplorer": false
 }
