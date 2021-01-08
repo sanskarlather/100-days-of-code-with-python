@@ -7,7 +7,7 @@
 - [x] Day 4 - Beginner - Randomisation and Python Lists
 - [x] Day 5 - Beginner - Python Loops
 - [x] Day 6 - Beginner - Python Functions & Karel
-- [ ] Day 7 - Beginner - Hangman
+- [x] Day 7 - Beginner - Hangman
 - [ ] Bonus Day - Beginner - Practise for the week
 - [ ] Day 8 - Beginner - Function Parameters & Caesar Cipher
 - [ ] Day 9 - Beginner - Dictionaries, Nesting and the Secret Auction
