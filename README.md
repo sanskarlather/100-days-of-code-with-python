@@ -10,7 +10,7 @@
 - [x] Day 7 - Beginner - Hangman
 - [x] Bonus Day - Beginner - Practise for the week
 - [x] Day 8 - Beginner - Function Parameters & Caesar Cipher
-- [ ] Day 9 - Beginner - Dictionaries, Nesting and the Secret Auction
+- [x] Day 9 - Beginner - Dictionaries, Nesting and the Secret Auction
 - [ ] Day 10 - Beginner - Functions with Outputs
 - [ ] Day 11 - Beginner - The Blackjack Capstone Project
 - [ ] Day 12 - Beginner - Scope & Number Guessing Game
