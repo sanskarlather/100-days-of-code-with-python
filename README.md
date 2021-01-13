@@ -12,7 +12,7 @@
 - [x] Day 8 - Beginner - Function Parameters & Caesar Cipher
 - [x] Day 9 - Beginner - Dictionaries, Nesting and the Secret Auction
 - [x] Day 10 - Beginner - Functions with Outputs
-- [ ] Day 11 - Beginner - The Blackjack Capstone Project
+- [x] Day 11 - Beginner - The Blackjack Capstone Project
 - [ ] Day 12 - Beginner - Scope & Number Guessing Game
 - [ ] Day 13 - Beginner - Debugging: How to Find and Fix Errors in your Code
 - [ ] Day 14 - Beginner - Higher Lower Game Project
