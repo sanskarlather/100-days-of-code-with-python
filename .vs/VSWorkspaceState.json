@@ -1,10 +1,11 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Day 10",
+    "\\Day 6",
     "\\Day 7",
-    "\\Day 8",
-    "\\Day 9"
+    "\\Day 8"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\Day 8\\matr_mult.py",
   "PreviewInSolutionExplorer": false
 }
