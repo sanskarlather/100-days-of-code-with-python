@@ -13,7 +13,7 @@
 - [x] Day 9 - Beginner - Dictionaries, Nesting and the Secret Auction
 - [x] Day 10 - Beginner - Functions with Outputs
 - [x] Day 11 - Beginner - The Blackjack Capstone Project
-- [ ] Day 12 - Beginner - Scope & Number Guessing Game
+- [x] Day 12 - Beginner - Scope & Number Guessing Game
 - [ ] Day 13 - Beginner - Debugging: How to Find and Fix Errors in your Code
 - [ ] Day 14 - Beginner - Higher Lower Game Project
 - [ ] Day 15 - Intermediate - Local Development Environment Setup & the Coffee Machine
