@@ -22,7 +22,7 @@
 - [x] Day 17 - Intermediate - The Quiz Project & the Benefits of OOP
 - [x] Day 18 - Intermediate - Turtle & the Graphical User Interface (GUI)
 - [x] Revision of previous concepts
-- [ ] Day 19 - Intermediate - Instances, State and Higher Order Functions
+- [x] Day 19 - Intermediate - Instances, State and Higher Order Functions
 - [ ] Day 20 - Intermediate - Build the Snake Game Part 1: Animation & Coordinates
 - [ ] Day 21 - Intermediate - Build the Snake Game Part 2: Inheritance & List Slicing
 - [ ] Day 22 - Intermediate - Build Pong: The Famous Arcade Game
