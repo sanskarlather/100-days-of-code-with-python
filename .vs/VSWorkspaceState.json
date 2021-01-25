@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Day 18"
+    "\\Day 16",
+    "\\Day 17",
+    "\\Day 19"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\Day 19\\snake_game.py",
   "PreviewInSolutionExplorer": false
 }
