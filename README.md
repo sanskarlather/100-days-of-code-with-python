@@ -26,6 +26,7 @@
 - [x] Day 20 - Intermediate - Build the Snake Game Part 1: Animation & Coordinates
 - [x] Revising OOP concepts
 - [x] Day 21 - Intermediate - Build the Snake Game Part 2: Inheritance & List Slicing
+- [x] Revising Lists and List Slicing concepts
 - [ ] Day 22 - Intermediate - Build Pong: The Famous Arcade Game
 - [ ] Day 23 - Intermediate - The Turtle Crossing Capstone Project
 - [ ] Day 24 - Intermediate - Files, Directories and Paths
