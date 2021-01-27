@@ -34,10 +34,8 @@ while gameOn:
         
         gameOn=False
         scores.game_over()
-    for i in snek.snae:
-        if i==snek.head:
-            pass
-        elif snek.head.distance(i)<1:
+    for i in snek.snae[1:]:
+        if snek.head.distance(i)<1:
               gameOn=False
               scores.game_over()  
     
