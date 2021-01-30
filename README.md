@@ -29,6 +29,7 @@
 - [x] Revising Lists and List Slicing concepts
 - [x] A day's break
 - [X] Day 22 - Intermediate - Build Pong: The Famous Arcade Game
+- [X] Practise advanced pong with 6 pads
 - [ ] Day 23 - Intermediate - The Turtle Crossing Capstone Project
 - [ ] Day 24 - Intermediate - Files, Directories and Paths
 - [ ] Day 25 - Intermediate - Working with CSV Data and the Pandas Library
