@@ -30,6 +30,7 @@
 - [x] A day's break
 - [X] Day 22 - Intermediate - Build Pong: The Famous Arcade Game
 - [X] Practise advanced pong with 6 pads
+- [X] Revising Concepts for capstone project
 - [ ] Day 23 - Intermediate - The Turtle Crossing Capstone Project
 - [ ] Day 24 - Intermediate - Files, Directories and Paths
 - [ ] Day 25 - Intermediate - Working with CSV Data and the Pandas Library
