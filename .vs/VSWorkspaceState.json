@@ -1,9 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Day 8",
-    "\\Extra Practise"
+    "\\Day 17",
+    "\\Day 18",
+    "\\Day 22",
+    "\\Day 23"
   ],
-  "SelectedNode": "\\Extra Practise\\transposition_cypher.py",
+  "SelectedNode": "\\Day 23\\turtle_crossing.py",
   "PreviewInSolutionExplorer": false
 }

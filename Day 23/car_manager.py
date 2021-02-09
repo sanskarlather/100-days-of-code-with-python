@@ -20,7 +20,7 @@ class Cars(Turtle):
             self.blue=random.randint(1,255)
             self.green=random.randint(1,255)
             newcar.color(self.red,self.blue,self.green)
-            newcar.shapesize(1.25,2.5)
+            newcar.shapesize(1,2)
             newcar.penup()
             newcar.sety(random.randint(-250,250))
             newcar.setx(START_POS)
